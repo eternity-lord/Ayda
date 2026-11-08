@@ -1,0 +1,98 @@
+﻿بخش,صفحه,نوع,نام برنامه,پکیج
+صفحه اصلی,1,"ویجت (ستون 0, ردیف 0)",com.sec.android.daemonapp,com.sec.android.daemonapp
+صفحه اصلی,1,"آیکون برنامه (ستون 2, ردیف 3)",com.sec.android.gallery3d,com.sec.android.gallery3d
+صفحه اصلی,1,"آیکون برنامه (ستون 3, ردیف 3)",com.android.settings,com.android.settings
+صفحه اصلی,1,"آیکون برنامه (ستون 0, ردیف 4)",com.sec.android.app.samsungapps,com.sec.android.app.samsungapps
+صفحه اصلی,1,"آیکون برنامه (ستون 1, ردیف 4)",com.sec.android.app.popupcalculator,com.sec.android.app.popupcalculator
+صفحه اصلی,1,"آیکون برنامه (ستون 2, ردیف 4)",com.android.vending,com.android.vending
+صفحه اصلی,1,داخل پوشه «Google»,com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox
+صفحه اصلی,1,داخل پوشه «Google»,com.android.chrome,com.android.chrome
+صفحه اصلی,1,داخل پوشه «Google»,com.google.android.gm,com.google.android.gm
+صفحه اصلی,1,داخل پوشه «Google»,com.google.android.apps.maps,com.google.android.apps.maps
+صفحه اصلی,1,داخل پوشه «Google»,com.google.android.youtube,com.google.android.youtube
+صفحه اصلی,1,داخل پوشه «Google»,com.google.android.apps.tachyon,com.google.android.apps.tachyon
+صفحه اصلی,1,داخل پوشه «Google»,com.google.android.apps.photos,com.google.android.apps.photos
+صفحه اصلی,2,"آیکون برنامه (ستون 3, ردیف 0)",com.google.android.apps.messaging,com.google.android.apps.messaging
+صفحه اصلی,2,"آیکون برنامه (ستون 2, ردیف 1)",com.lazada.android,com.lazada.android
+صفحه اصلی,2,"آیکون برنامه (ستون 3, ردیف 1)",com.ss.android.ugc.trill,com.ss.android.ugc.trill
+صفحه اصلی,2,"ویجت (ستون 0, ردیف 2)",com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox
+صفحه اصلی,2,"آیکون برنامه (ستون 0, ردیف 4)",com.sec.android.app.clockpackage,com.sec.android.app.clockpackage
+صفحه اصلی,2,"آیکون برنامه (ستون 1, ردیف 4)",com.samsung.android.calendar,com.samsung.android.calendar
+صفحه اصلی,2,"آیکون برنامه (ستون 2, ردیف 4)",com.samsung.android.app.notes,com.samsung.android.app.notes
+صفحه اصلی,2,"آیکون برنامه (ستون 3, ردیف 4)",com.microsoft.skydrive,com.microsoft.skydrive
+داک (پایین صفحه),1,آیکون برنامه,com.samsung.android.dialer,com.samsung.android.dialer
+داک (پایین صفحه),3,آیکون برنامه,com.sec.android.app.sbrowser,com.sec.android.app.sbrowser
+داک (پایین صفحه),4,آیکون برنامه,com.sec.android.app.camera,com.sec.android.app.camera
+داک (پایین صفحه),2,آیکون برنامه,com.samsung.android.messaging,com.samsung.android.messaging
+منوی برنامه‌ها (کشو),1,داخل پوشه «Samsung»,com.sec.android.app.myfiles,com.sec.android.app.myfiles
+منوی برنامه‌ها (کشو),1,داخل پوشه «Samsung»,com.sec.android.app.fm,com.sec.android.app.fm
+منوی برنامه‌ها (کشو),1,داخل پوشه «Samsung»,com.samsung.android.messaging,com.samsung.android.messaging
+منوی برنامه‌ها (کشو),1,داخل پوشه «Samsung»,com.sec.android.easyMover,com.sec.android.easyMover
+منوی برنامه‌ها (کشو),1,داخل پوشه «Google»,com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox
+منوی برنامه‌ها (کشو),1,داخل پوشه «Google»,com.android.chrome,com.android.chrome
+منوی برنامه‌ها (کشو),1,داخل پوشه «Google»,com.google.android.gm,com.google.android.gm
+منوی برنامه‌ها (کشو),1,داخل پوشه «Google»,com.google.android.apps.maps,com.google.android.apps.maps
+منوی برنامه‌ها (کشو),1,داخل پوشه «Google»,com.google.android.youtube,com.google.android.youtube
+منوی برنامه‌ها (کشو),1,داخل پوشه «Google»,com.google.android.apps.tachyon,com.google.android.apps.tachyon
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.microsoft.skydrive,com.microsoft.skydrive
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.android.vending,com.android.vending
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.sec.android.app.samsungapps,com.sec.android.app.samsungapps
+منوی برنامه‌ها (کشو),1,آیکون برنامه,Facebook,com.facebook.katana
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.samsung.android.dialer,com.samsung.android.dialer
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.google.android.apps.messaging,com.google.android.apps.messaging
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.sec.android.app.camera,com.sec.android.app.camera
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.sec.android.app.clockpackage,com.sec.android.app.clockpackage
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.samsung.android.app.contacts,com.samsung.android.app.contacts
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.android.settings,com.android.settings
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.samsung.android.calendar,com.samsung.android.calendar
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.sec.android.app.popupcalculator,com.sec.android.app.popupcalculator
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.samsung.android.app.notes,com.samsung.android.app.notes
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.lazada.android,com.lazada.android
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.ss.android.ugc.trill,com.ss.android.ugc.trill
+منوی برنامه‌ها (کشو),1,آیکون برنامه,TTAC,ir.ttac.irfdamobile
+منوی برنامه‌ها (کشو),1,آیکون برنامه,com.samsung.android.scloud,com.samsung.android.scloud
+منوی برنامه‌ها (کشو),1,آیکون برنامه,MEGA,mega.privacy.android.app
+منوی برنامه‌ها (کشو),2,آیکون برنامه,Zapya,com.dewmobile.kuaiya.play
+منوی برنامه‌ها (کشو),2,آیکون برنامه,بازار,com.farsitel.bazaar
+منوی برنامه‌ها (کشو),2,آیکون برنامه,Telegram,org.telegram.messenger
+منوی برنامه‌ها (کشو),2,آیکون برنامه,Discord,com.discord
+منوی برنامه‌ها (کشو),2,آیکون برنامه,ZArchiver Pro,ru.zdevs.zarchiver.pro
+منوی برنامه‌ها (کشو),2,آیکون برنامه,Herlife,app.herlife
+منوی برنامه‌ها (کشو),2,آیکون برنامه,پینگخور VPN,com.secureconnection.vpn
+منوی برنامه‌ها (کشو),2,آیکون برنامه,com.gabedeveloper.cuphead,com.gabedeveloper.cuphead
+منوی برنامه‌ها (کشو),2,آیکون برنامه,همراه کارت,com.adpdigital.mbs.ayande
+منوی برنامه‌ها (کشو),2,آیکون برنامه,Clash of Clans,com.supercell.clashofclans
+منوی برنامه‌ها (کشو),2,آیکون برنامه,Snapchat,com.snapchat.android
+منوی برنامه‌ها (کشو),2,آیکون برنامه,منچیکو,com.NoaGames.Menchico
+منوی برنامه‌ها (کشو),2,آیکون برنامه,روبیکا,app.rbmain.a
+منوی برنامه‌ها (کشو),2,آیکون برنامه,ایتا,ir.eitaa.messenger
+منوی برنامه‌ها (کشو),2,آیکون برنامه,مایکت,ir.mservices.market
+منوی برنامه‌ها (کشو),2,آیکون برنامه,My Irancell,com.myirancell
+منوی برنامه‌ها (کشو),2,آیکون برنامه,باران,com.gostaresh.mobilebank.boilerplate
+منوی برنامه‌ها (کشو),2,آیکون برنامه,Instagram,com.instagram.android
+منوی برنامه‌ها (کشو),2,آیکون برنامه,واتساپ,com.whatsapp
+منوی برنامه‌ها (کشو),3,آیکون برنامه,ChatGPT,com.openai.chatgpt
+منوی برنامه‌ها (کشو),3,آیکون برنامه,Lightroom,com.adobe.lrmobile
+منوی برنامه‌ها (کشو),3,آیکون برنامه,My-MCI,ir.mci.ecareapp
+منوی برنامه‌ها (کشو),3,آیکون برنامه,v2rayNG,com.v2ray.ang
+منوی برنامه‌ها (کشو),3,آیکون برنامه,Subway Surf,com.kiloo.subwaysurf
+منوی برنامه‌ها (کشو),3,آیکون برنامه,com.sec.android.gallery3d,com.sec.android.gallery3d
+منوی برنامه‌ها (کشو),3,آیکون برنامه,Subway City,com.sybogames.subway.surfers.game
+منوی برنامه‌ها (کشو),3,آیکون برنامه,GapGPT,app.gapgpt.twa
+منوی برنامه‌ها (کشو),3,آیکون برنامه,Gemini,com.google.android.apps.bard
+منوی برنامه‌ها (کشو),3,آیکون برنامه,کلاژ عکس حرفه ای,com.yasin2.framecollage
+منوی برنامه‌ها (کشو),3,آیکون برنامه,Proton VPN,ch.protonvpn.android
+منوی برنامه‌ها (کشو),3,آیکون برنامه,VITA,com.snowcorp.vita
+منوی برنامه‌ها (کشو),3,آیکون برنامه,آپ,com.sibche.aspardproject.app
+منوی برنامه‌ها (کشو),3,آیکون برنامه,Widgeta,com.titanbbl.theme.widget.icon
+منوی برنامه‌ها (کشو),3,آیکون برنامه,Mobile Legends: Bang Bang,com.mobile.legends
+منوی برنامه‌ها (کشو),3,آیکون برنامه,com.camerasideas.instashot,com.camerasideas.instashot
+منوی برنامه‌ها (کشو),3,آیکون برنامه,Tera VPN,tera.aiapp.com
+منوی برنامه‌ها (کشو),3,آیکون برنامه,Nails Shop,com.geekeryapps.nailDesign.acrylicNailsArtTools
+منوی برنامه‌ها (کشو),3,آیکون برنامه,Viro VPN,secure.viro.free.vpn
+منوی برنامه‌ها (کشو),3,آیکون برنامه,کانون جست‌وجو,com.google.android.apps.adm
+منوی برنامه‌ها (کشو),4,آیکون برنامه,Pinterest,com.pinterest
+منوی برنامه‌ها (کشو),4,آیکون برنامه,com.android.stk,com.android.stk
+منوی برنامه‌ها (کشو),4,آیکون برنامه,My Person,com.queuebit.surprise_me
+منوی برنامه‌ها (کشو),4,آیکون برنامه,AnyDesk,com.anydesk.anydeskandroid
+صفحه چپ (Zero Page),,صفحه ویژه گوگل,گوگل (فید/جستجو),com.google.android.googlequicksearchbox

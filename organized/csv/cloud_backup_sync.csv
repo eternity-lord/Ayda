@@ -1,0 +1,18 @@
+﻿نوع,مورد,وضعیت
+همگام‌سازی (Sync),com.android.contacts,روشن ✅
+همگام‌سازی (Sync),com.samsung.android.app.notes.sync,روشن ✅
+همگام‌سازی (Sync),com.samsung.bt.btservice.btsettingsprovider,روشن ✅
+همگام‌سازی (Sync),com.samsung.android.app.reminder,روشن ✅
+همگام‌سازی (Sync),com.android.settings.wifiprofilesync,خاموش ❌
+همگام‌سازی (Sync),com.android.calendar,روشن ✅
+بکاپ خودکار,10_APPLICATIONS_SETTING,روشن ✅
+بکاپ خودکار,07_SETTINGS,روشن ✅
+بکاپ خودکار,02_MESSAGE,روشن ✅
+بکاپ خودکار,09_HOME_APPLICATIONS,روشن ✅
+بکاپ خودکار,06_CLOCK,روشن ✅
+بکاپ خودکار,01_PHONE,روشن ✅
+بکاپ خودکار,04_CALENDAR,روشن ✅
+بکاپ خودکار,003_APP_DATA,خاموش ❌
+بکاپ خودکار,001_MUSIC,خاموش ❌
+بکاپ خودکار,002_DOCUMENT,خاموش ❌
+بکاپ خودکار,03_CONTACTS,روشن ✅
